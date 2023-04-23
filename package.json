@@ -1,0 +1,24 @@
+{
+  "name": "kickstarting-node-js",
+  "version": "1.0.0",
+  "description": "complete node.js guide",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello.js",
+    "start-server": "node hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivsharma123456/Kickstarting-Node-Js.git"
+  },
+  "author": "shiv sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivsharma123456/Kickstarting-Node-Js/issues"
+  },
+  "homepage": "https://github.com/shivsharma123456/Kickstarting-Node-Js#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
